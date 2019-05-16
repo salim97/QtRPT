@@ -7,6 +7,7 @@ INCLUDEPATH += $$PWD/QtRptProject
 include($$PWD/QtRptProject/QtRPT/QtRPT.pri)
 ```
 3) copy "QtRPT-Example/DLL/QtZint.dll" to your exe application folder in order to work properly without error
+4) switch to release mode
 
 # Tutorial
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/M4AoJiXNvCo/0.jpg)](https://www.youtube.com/watch?v=M4AoJiXNvCo)
